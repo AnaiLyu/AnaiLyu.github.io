@@ -435,6 +435,7 @@ nav{
 }
 .mobile_app a:hover{
 	box-shadow: none;
+	background: none;
 }
 
 footer{
