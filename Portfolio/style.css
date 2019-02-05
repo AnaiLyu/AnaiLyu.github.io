@@ -241,8 +241,42 @@ header:after{
 	line-height: 50px;
 	display: inline-block;
 }
-
-
+.counts{
+	width: 1600px;
+	height: 150px;
+	display: -webkit-flex;
+	display: -moz-flex;
+	display: -ms-flex;
+	display: -o-flex;
+	display: flex;
+}
+.counts_csrd{
+	width: 400px;
+	/*height: 150px;*/
+}
+.counts img{
+	
+	width: 26px;
+	height: 24px;
+}
+.counts img:after{
+	background: #fff;
+	border-radius: 50%;
+	width: 60px;
+	height: 60px;
+}
+.counts_csrd_1{
+	background-color: #80d8ff;
+}
+.counts_csrd_2{
+	background-color: #82b1ff;
+}
+.counts_csrd_3{
+	background-color: #b388ff;
+}
+.counts_csrd_4{
+	background-color: #ea80fc;
+}
 
 
 
